@@ -1,4 +1,6 @@
-# Setup 
+# Collaboration and Sharing with GitHub
+
+## Setup 
 
 ### Create a GitHub Account  
 

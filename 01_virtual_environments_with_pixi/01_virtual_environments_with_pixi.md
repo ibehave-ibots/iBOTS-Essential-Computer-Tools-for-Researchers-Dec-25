@@ -1,3 +1,5 @@
+# Creating and Managing Virtual Environments with Pixi
+
 ## Setup
 
 ### Installation

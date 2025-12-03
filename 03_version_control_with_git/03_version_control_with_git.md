@@ -1,3 +1,5 @@
+# Version Control with Git
+
 ## Setup
 
 ### Installation: Git
